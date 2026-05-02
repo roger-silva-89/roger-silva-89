@@ -1,39 +1,17 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-## 👋 Hi there, I'm Roger Silva
+# Welcome to My Project!
 
-- Software developer with 10+ years of experience, specializing in Java.
+Hey there! This is a cool project that I’ve been working on. I hope you enjoy it as much as I do. Just dive in and take a look around!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />          
-</div>
+## Features
+- Easy to use
+- Super fast
+- Lots of fun!
 
-##
+## Getting Started
+You can get started right away! Just clone the repo and you’re good to go.
 
-<h3>Contacts 📨</h3>
+## Contributing
+If you wanna help out, just shoot me an issue or a pull request. I’d love to hear your thoughts and ideas!
 
-<div> 
-   <a href="https://www.linkedin.com/in/rogergs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:rogergsilvati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-          
-
-<!--
-**roger-silva-89/roger-silva-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## License
+This project is open-source, so feel free to use it however you want!
